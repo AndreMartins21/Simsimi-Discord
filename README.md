@@ -12,7 +12,7 @@
 
 **|->** [Python V3.9](https://www.python.org/): Linguagem de programação versátil e de alto nível;
 
-**|->** [Requests](https://docs.python-requests.org/en/master/): Librabry de requisição HTTP (será usada para acessar a API do Simsimi)
+**|->** [Requests](https://docs.python-requests.org/en/master/): Library de requisição HTTP (será usada para acessar a API do Simsimi)
 
 **|->** [Discord.py V1.7.1](https://discordpy.readthedocs.io/en/stable/) = Library para a integração com o Discord
 
