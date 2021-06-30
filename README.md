@@ -37,3 +37,6 @@ pip install discord.py
 <a>
   <img align="center" alt="Exemplo" src="https://github.com/AndreMartins21/Simsimi-Discord/blob/main/Images/testes.png" width="350" height="350">
 </a>
+
+
+**🤝Créditos: [https://github.com/yakuza892](https://github.com/yakuza892)**
