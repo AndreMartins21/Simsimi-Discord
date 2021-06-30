@@ -31,3 +31,9 @@ pip install discord.py
     [TOKEN (str)](https://github.com/AndreMartins21/Simsimi-Discord/blob/a60bd59b0e6e6ff9b7ce79e746ae3f2dbe65641d/main.py#L29) = Inserir o TOKEN do bot. 
 
 - No arquivo [simsimi.py](https://github.com/AndreMartins21/Simsimi-Discord/blob/main/simsimi.py) está presente uma função que realiza a integração da mensagem requerida no discord com a API do Simsimi.
+
+
+## Exemplo de funcionamento:
+<a>
+  <img align="center" alt="Exemplo" src="https://github.com/AndreMartins21/Simsimi-Discord/blob/main/Images/testes.png" width="350" height="350">
+</a>
