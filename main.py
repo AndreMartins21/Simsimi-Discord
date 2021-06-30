@@ -26,4 +26,5 @@ async def on_message(msg):
 async def on_ready():
   print(f"{client.user} está online!")
 
-client.run("INSIRA_O_TOKEN_DO_BOT")
+TOKEN = "INSIRA_O_TOKEN_AQUI"
+client.run(TOKEN)
