@@ -8,7 +8,7 @@
 
   Trata-se de um script que implementa uma API do chat-bot [Simsimi](https://www.simsimi.com/) em um bot associado à plataforma do [Discord](https://discord.com/).
   
-## Tecnologias Utilizadas::
+## Tecnologias Utilizadas:
 
 **|->** [Python V3.9](https://www.python.org/): Linguagem de programação versátil e de alto nível;
 
