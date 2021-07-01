@@ -8,6 +8,7 @@
 
   Trata-se de um script que implementa uma API do chat-bot [Simsimi](https://www.simsimi.com/) em um bot associado à plataforma do [Discord](https://discord.com/).
   
+  
 ## Tecnologias Utilizadas:
 
 **|->** [Python V3.9](https://www.python.org/): Linguagem de programação versátil e de alto nível;
@@ -16,8 +17,11 @@
 
 **|->** [Discord.py V1.7.1](https://discordpy.readthedocs.io/en/stable/) = Library para a integração com o Discord
 
+---------------------------------------------------------------------
 
 ## Instruções:
+
+- Primeiramente, deve-se criar uma aplicação (bot) no Discord. Para tal, utilize o site de desenvolvimento da plataforma: https://discord.com/developers/applications
 
 - Instalar a biblioteca **discord.py**:
 ```
@@ -32,6 +36,7 @@ pip install discord.py
 
 - No arquivo [simsimi.py](https://github.com/AndreMartins21/Simsimi-Discord/blob/main/simsimi.py) está presente uma função que realiza a integração da mensagem requerida no discord com a API do Simsimi.
 
+---------------------------------------------------------------------
 
 ## Exemplo de funcionamento:
 <a>
